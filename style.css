@@ -1,0 +1,23 @@
+/* Colors: sage, cream, tomato */
+body { font-family: Arial, sans-serif; margin:0; background:#F8F3E8; color:#333; }
+.container { width:90%; margin:auto; }
+.site-header { background:#A8BBA2; padding:10px 0; }
+.nav-container { display:flex; justify-content:space-between; align-items:center; }
+.logo { font-weight:bold; }
+.nav-menu { display:flex; gap:15px; }
+.nav-menu a { text-decoration:none; color:#000; }
+.hamburger { display:none; background:none; border:none; font-size:24px; }
+.hero { text-align:center; padding:40px 0; }
+.btn { padding:10px 20px; display:inline-block; }
+.primary { background:#D97C6C; color:#fff; }
+.grid-3 { display:grid; grid-template-columns:repeat(3,1fr); gap:20px; }
+.grid-3 img { width:100%; }
+.site-footer { text-align:center; padding: 20px; background:#A8BBA2; }
+
+/* Responsive */
+@media (max-width:768px) {
+  .grid-3 {grid-template-columns:1fr; }
+  .nav-menu { display:none; flex-direction:column; }
+  .nav-menu.active { display:flex; }
+  .hamburger { display:block; }
+}
