@@ -17,3 +17,19 @@ A modern restaraunt website with four pages: Home, About, Menu, and Contact. The
 - CSS
 - JavaScript
 - Boostrap
+
+## Features
+- Responsive design
+- Mobile hamburger menu
+- Interactive navigation
+- Restaurant menu
+- Contact information page
+
+## Live Website URL
+https://HonduranWraithBat.github.io/Marinara-Family/
+
+## Github Repository URL
+https://github.com/HonduranWraithBat/Marinara-Family
+
+## Date
+May 2026
