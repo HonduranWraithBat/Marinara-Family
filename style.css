@@ -278,5 +278,18 @@ body {
 .map-container iframe{
     border-radius: 12px;
 }
+
+    .about-card{
+    background-color: white;
+    padding: 30px;
+    margin-bottom: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.about-card h3{
+    color: #a84b2a;
+    margin-bottom: 15px;
+}
     
 }
