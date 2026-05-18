@@ -245,4 +245,17 @@ body {
         grid-template-columns: 1fr;
     }
 
+    .food-card{
+    background-color: white;
+    padding: 25px;
+    border-radius: 12px;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    transition: 0.3s;
+}
+
+.food-card:hover{
+    transform: translateY(-5px);
+}
+    
 }
