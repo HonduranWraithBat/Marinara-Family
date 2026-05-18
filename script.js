@@ -12,4 +12,6 @@ hamburger.addEventListener("click", () => {
   hamburger.textContent = "X";
  } else {
    hamburger.textContent = "☰";
+ }
+   
 });
