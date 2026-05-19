@@ -87,10 +87,10 @@ body {
 
     background-image:
     linear-gradient(
-        rgba(0,0,0,0.5),
-        rgba(0,0,0,0.5)
+    rgba(0,0,0,0.5),
+    rgba(0,0,0,0.5)
     ),
-    url("./Pizza.png");
+    url("https://images.unsplash.com/photo-1513104890138-7c749659a591");
 
     background-size: cover;
     background-position: center;
