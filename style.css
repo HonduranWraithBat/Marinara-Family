@@ -90,7 +90,7 @@ body {
         rgba(0,0,0,0.55),
         rgba(0,0,0,0.55)
     ),
-    url("images/pizza.png");
+    url("pizza.png");
 
     background-size: cover;
     background-position: center;
